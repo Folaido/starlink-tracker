@@ -1,0 +1,16 @@
+@import "~antd/dist/antd.css";
+@import "./Header.css";
+@import "./Footer.css";
+@import "./Main.css";
+@import "./SatSetting.css";
+@import "./SatelliteList.css";
+@import "./WorldMap.css";
+
+.App {
+  position: relative;
+  display: block;
+  min-height: 100vh;
+  overflow: hidden;
+  padding-bottom: 5px;
+  text-align: center;
+}
